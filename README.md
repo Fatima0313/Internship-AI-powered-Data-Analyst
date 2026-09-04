@@ -1,13 +1,13 @@
-Learner Engagement Analysis & Prediction
+# Learner Engagement Analysis & Prediction
 
-Project Overview
+## Project Overview
 
-This project combines data analytics, dashboard visualization, and machine learning** to analyze learner participation and predict learner engagement.
+This project combines **data analytics, dashboard visualization, and machine learning** to analyze learner participation and predict learner engagement.
 
 The project was developed in two major parts:
 
-1. Interactive Dashboard – to explore learner participation, opportunity categories, engagement rates, statuses, and trends.
-2. *Machine Learning Model* – to predict learner engagement using three classification models.
+1. **Interactive Dashboard** – to explore learner participation, opportunity categories, engagement rates, statuses, and trends.
+2. **Machine Learning Model** – to predict learner engagement using three classification models.
 
 The machine learning models used in this project are:
 
@@ -287,3 +287,4 @@ This project demonstrates an end-to-end approach to learner analytics by combini
 The dashboard provides an overall view of learner participation and engagement patterns, while the machine learning component demonstrates how predictive models can be used to identify potential engagement outcomes.
 
 Together, these approaches show how data can be transformed from raw records into **actionable insights and predictive decision support**.
+
