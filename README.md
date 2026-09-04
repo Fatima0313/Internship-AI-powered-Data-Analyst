@@ -69,19 +69,6 @@ The dashboard explores:
 * High-volume countries and institutions contribute significantly to overall learner activity.
 * Signup activity varies considerably over time, with noticeable peaks and declines.
 
-### Dashboard Screenshots
-
-Dashboard screenshots are included in the repository to demonstrate the visual analysis and key findings.
-
-![Dashboard Overview](results/dashboard_overview.png)
-
-![Dashboard Analysis](results/dashboard_analysis.png)
-
-![Dashboard Insights](results/dashboard_insights.png)
-
-> Replace the image filenames above with the exact names of your uploaded dashboard screenshots if they are different.
-
----
 
 # Part 2: Machine Learning
 
@@ -242,43 +229,11 @@ Insights & Recommendations
 
 ### Development Environment
 
-* Jupyter Notebook
+* VS code
 * Python
 
 ---
 
-# Repository Structure
-
-```text
-learner-engagement-analysis-prediction/
-│
-├── README.md
-├── requirements.txt
-│
-├── data/
-│   └── README.md
-│
-├── dashboard/
-│   ├── dashboard_overview.png
-│   ├── dashboard_analysis.png
-│   └── dashboard_insights.png
-│
-├── notebooks/
-│   └── learner_engagement_modeling.ipynb
-│
-├── src/
-│   └── train_models.py
-│
-├── models/
-│   └── README.md
-│
-└── results/
-    ├── model_comparison.png
-    ├── confusion_matrix.png
-    └── roc_curve.png
-```
-
----
 
 # Conclusion
 
