@@ -131,27 +131,18 @@ Using several evaluation metrics provides a more complete understanding of model
 
 The three models were compared based on their evaluation results to identify the most suitable model for learner engagement prediction.
 
-Model comparison results are included in the `results` folder.
-
-![Model Comparison](results/model_comparison.png)
-
----
-
 ## Machine Learning Visualizations
 
 ### Confusion Matrix
 
 The confusion matrix was used to examine correct and incorrect predictions for the engagement classes.
 
-![Confusion Matrix](results/confusion_matrix.png)
+
 
 ### ROC Curve
 
 The ROC curve was used to evaluate how well the models distinguish between engagement outcomes.
 
-![ROC Curve](results/roc_curve.png)
-
----
 
 # Recommendations
 
